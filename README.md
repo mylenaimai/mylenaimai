@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 Security Information at Itaú Unibanco
 </br>
 🌱 I’m currently learning Go!
+</br>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
