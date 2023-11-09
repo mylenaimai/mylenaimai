@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mylena Imai 💻
 
 <!--
 **mylenaimai/mylenaimai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+   </br>
+Security Information at Itaú Unibanco
+</br>
+🌱 I’m currently learning Go!
