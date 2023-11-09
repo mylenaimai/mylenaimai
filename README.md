@@ -22,5 +22,5 @@ Security Information at Itaú Unibanco
 </br>
 🌱 I’m currently learning Go!
 </br>
-![Snake animation](https://github.com/mylenaimai/mylenaimai/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/mylenaimai/mylenaimai/blob/output/github-contribution-grid-snake.gif)
 
