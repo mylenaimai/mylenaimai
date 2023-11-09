@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-   </br>
-Security Information at Itaú Unibanco
-<br>
-🌱 I’m currently learning Go!
-<br>
+
+## Security Information at Itaú Unibanco
+
+🌱 I’m currently learning **Go**
+
 
