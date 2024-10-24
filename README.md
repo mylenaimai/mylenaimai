@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Lover of technology and coding enthusiast ❤️
 
-🔐 I am Software Developer at Mercado Livre
+🖥️ I am Software Developer at Mercado Livre
 
 🌱 I’m currently learning **Go** and **Kubernetes**
 
