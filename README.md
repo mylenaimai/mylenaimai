@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-## Security Information at Itaú Unibanco
+## Software Developer at Mercado Livre
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mylenaimai)](https://github.com/mylenaimai)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mylenaimai/)](https://www.linkedin.com/in/mylenaimai/)
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 Lover of technology and coding enthusiast ❤️
 
-🔐 I am Jr Penetration Tester in Applications at Itaú Unibanco
+🔐 I am Software Developer at Mercado Livre
 
-🌱 I’m currently learning **Go**
+🌱 I’m currently learning **Go** and **Kubernetes**
 
 
 ![mylenaimai GitHub stats](https://github-readme-stats.vercel.app/api?username=mylenaimai&theme=dark&show_icons=true)
